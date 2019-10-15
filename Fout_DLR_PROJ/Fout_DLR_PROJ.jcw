@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Fout_DLR_PROJ</label>
+	</settings>
+	<users>
+		<user>
+			<path>Fout_DLR_PROJ.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Fin_DLR_PROJ\Fin_DLR_PROJ.jcp</path>
+		</project>
+		<project>
+			<path>Fout_DLR_PROJ.jcp</path>
+		</project>
+	</projects>
+</workspace>
